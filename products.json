@@ -1,0 +1,23 @@
+{
+  "t7": {
+    "name": "Call of Duty BlackOps III",
+    "filename": "debug-t7.dll",
+    "exe": "BlackOps3.exe",
+    "enabled": true
+  },
+
+  "volt": {
+    "name": "Volt No Recoil",
+    "filename": "volt.dll",
+    "exe": "voltclient.exe",
+    "enabled": true
+  },
+  
+  "aimbot_v1": {
+    "name": "Aimbot v1",
+    "filename": "aimbot_v1.dll",
+    "exe": "game.exe",
+    "enabled": false
+  }
+}
+

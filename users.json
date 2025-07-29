@@ -1,0 +1,31 @@
+{
+    "mustinky": {
+        "password": "$2b$10$Kz40JWdq0SiJk.EF2llOKOE2s27ALtOQzdv/xjypz11uBniFwhuR.",
+        "hwid": "5eBtur428881E034b0\u0000EFaFy5S7084iDeBs772m44Slr6\u0000e12F",
+        "products": [
+            {
+                "id": "t7",
+                "expiresAt": 172251741259672
+            }
+        ],
+        "accessExpires": 172251741259672,
+        "suspended": false,
+        "suspendReason": "",
+        "createdAt": 1751741199672,
+        "lastLogin": 1751812622231,
+        "totalTimeUsed": 71418566,
+        "lastLoginStart": 1751812622231
+    },
+    "nigger": {
+        "password": "$2b$10$CAhMk/c0pJrSbwuq2H6Z9uhobt/SqOOc34Ju5JF/r31f0lbtYpIji",
+        "hwid": "5eBtur428881E034b0\u0000EFaFy5S7084iDeBs772m44Slr6\u0000e12F",
+        "products": [],
+        "accessExpires": 1751747794066,
+        "suspended": false,
+        "suspendReason": "",
+        "createdAt": 1751747734066,
+        "lastLogin": 1751747738257,
+        "totalTimeUsed": 0,
+        "lastLoginStart": 1751747738257
+    }
+}
