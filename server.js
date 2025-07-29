@@ -10,6 +10,9 @@ const http = require('http');
 const { Server } = require('socket.io');
 
 const app = express();
+
+app.set('trust proxy', 1);
+
 const server = http.createServer(app);
 const io = new Server(server, {
   cors: { origin: '*', methods: ['GET', 'POST'] }
